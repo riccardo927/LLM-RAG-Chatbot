@@ -1,0 +1,19 @@
+uvicorn
+fastapi
+flask
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-openai
+transformers 
+pypdf
+chromadb # Vector storage
+pytest
+sentence-transformers
+pydantic
+pydantic-settings
+pytest~=8.2.0
+pytest-cov~=5.0
+pytest-mock~=3.14.0
