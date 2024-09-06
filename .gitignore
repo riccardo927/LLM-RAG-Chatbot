@@ -1,3 +1,17 @@
+##########################
+#  PROJECT
+
+# ignore all local configuration
+conf/local/**
+!conf/local/.gitkeep
+.telemetry
+
+# ignore everything in the following folders
+data/**
+
+##########################
+# Common files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
