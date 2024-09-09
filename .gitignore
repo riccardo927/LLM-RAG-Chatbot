@@ -12,6 +12,12 @@ data/**
 ##########################
 # Common files
 
+### macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

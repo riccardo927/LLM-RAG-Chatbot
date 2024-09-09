@@ -70,3 +70,5 @@ def process_documents():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5001, debug=True)
+
+# open in browser http://127.0.0.1:5001/
