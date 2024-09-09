@@ -44,7 +44,7 @@ Ensure you have the following installed:
 
 ### Running the chatbot locally
 
-Run the `main.py` script:
+* Run the `main.py` script:
 
     ```bash
     cd src
