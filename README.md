@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 - Python 3.10+
 - pip
-- `virtualenv` or `venv` (recommended for creating isolated environments)
+- `conda` or `venv` (recommended for creating isolated environments)
 
 ### Installation
 
